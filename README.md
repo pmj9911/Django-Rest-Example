@@ -1,11 +1,11 @@
 This is an example app which demonstrated the usage of Django Rest Framework.
 ###Functions:
 ##Module Account:
-#Create User -
+Create User -
 1. creates a user in DB
 2. returns created User in the response with a unique id.
 
-#Get User -
+Get User -
 1. fetchs user from DB using the id given either as a query or path param.
 2. If a user doesn't exist, returns a proper error message.
 3. The response should be "User"
