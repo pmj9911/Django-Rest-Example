@@ -3,6 +3,7 @@ This is an example app which demonstrated the usage of Django Rest Framework.
 Functions:
 
 Module Account:
+
 Create User -
 1. creates a user in DB
 2. returns created User in the response with a unique id.
@@ -22,6 +23,8 @@ pip3 install -r requirements.txt
 3. Running the server
 python3 manage.py runserver
 
-If asked, the also run 
+If asked, then also run 
+
 python3 manage.py migrate
+
 to run the migrations.
