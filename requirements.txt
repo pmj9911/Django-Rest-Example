@@ -13,7 +13,7 @@
 # foxmulaRest/foxmulaRest/views.py: 1
 # foxmulaRest/foxmulaRest/wsgi.py: 12
 # foxmulaRest/manage.py: 10
-Django == 3.0.4
+Django == 3.1.13
 
 # foxmulaRest/account/views.py: 4
 # foxmulaRest/foxmulaRest/views.py: 4
